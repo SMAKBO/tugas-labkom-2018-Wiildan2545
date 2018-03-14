@@ -8,8 +8,10 @@
 	URL: http://alvarez.is
 	
 ################################################################# */ 
+ 
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,700,900);
 @import url(http://fonts.googleapis.com/css?family=Lato:400,900);
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
 @import url("prettyPhoto.css") screen;
 @import url("hoverex-all.css") screen;
 
@@ -287,7 +289,8 @@ a:focus {
 }
 
 /* Testimonials Wrap */
-#twrap {
+#twrap {	 
+
 	background: url(../img/t-back.jpg) no-repeat center top;
 	margin-top: 0px;
 	padding-top:60px;
@@ -312,11 +315,13 @@ a:focus {
 	font-size: 50px;
 	color: white;
 	margin-bottom: 25px;
+ 
 }
 
 #twrap p {
+	font-family: 'Amatic SC', cursive;
 	color: white;
-	font-size: 15px;
+	font-size: 30px;
 	line-height: 30px;
 }
 
