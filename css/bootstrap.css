@@ -1248,8 +1248,9 @@ pre code {
   }
 
   .col-lg-28 {
-    width: 50%;
+    width: 45%;
     float: right;
+    margin-left: 50px
   }
   .col-lg-12 {
     width: 100%;

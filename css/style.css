@@ -291,7 +291,7 @@ a:focus {
 /* Testimonials Wrap */
 #twrap {	 
 
-	background: url(../img/t-back.jpg) no-repeat center top;
+	background: url(../img/lemonbuen.png) no-repeat center top;
 	margin-top: 0px;
 	padding-top:60px;
 	text-align:center;
@@ -313,14 +313,14 @@ a:focus {
 
 #twrap i {
 	font-size: 50px;
-	color: white;
+	color: black;
 	margin-bottom: 25px;
  
 }
 
 #twrap p {
 	font-family: 'Amatic SC', cursive;
-	color: white;
+	color: black;
 	font-size: 30px;
 	line-height: 30px;
 }
